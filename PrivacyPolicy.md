@@ -65,7 +65,7 @@ We use this information solely to respond to your inquiry, schedule product demo
 
 **Technical Information:**
 
-Our website hosting provider may process standard server logs (such as IP address and browser type) to deliver and secure the Website. We do not set advertising or tracking cookies on the Website.
+Our website hosting provider may process standard server logs (such as IP address and browser type) to deliver and secure the Website. We use cookieless, first-party analytics to measure aggregate page views on the Website; this does not identify you individually. We do not set advertising or tracking cookies on the Website.
 
 **Retention:**
 

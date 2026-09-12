@@ -58,8 +58,8 @@ We collect this information through:
 
 When you submit a demo request through our Website, we collect the information you provide in the form:
 
-* **Name, Email Address, Company, and Address** \- Collected to respond to your inquiry  
-* **Industry, Phone Number, and Message** \- Collected only if you choose to provide them
+* **Name, Email Address, and Company** \- Collected to respond to your inquiry  
+* **Phone Number and Message** \- Collected only if you choose to provide them
 
 We use this information solely to respond to your inquiry, schedule product demonstrations, and discuss your lockout/tagout needs. Your submission is delivered to us as email through a third-party email delivery provider. We do not add you to marketing lists without your consent, and we do not sell this information.
 

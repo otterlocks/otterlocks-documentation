@@ -1,11 +1,11 @@
 # **Otterlocks Privacy Policy**
 
 **Effective Date:** 8/28/2025  
-**Last Updated:** 8/28/2025
+**Last Updated:** 9/9/2026
 
 ## **Introduction**
 
-This Privacy Policy describes how Otterlocks, Inc. ( “Otterlocks,” "we," "our," or "us") collects, uses, and shares your personal information when you use our mobile application, Otterlocks \- Safe Sync (the "App").
+This Privacy Policy describes how Otterlocks, Inc. ( “Otterlocks,” "we," "our," or "us") collects, uses, and shares your personal information when you use our mobile application, Otterlocks \- Safe Sync (the "App"), or our website, otterlocks.com (the "Website").
 
 ## **Personal Data We Collect**
 
@@ -51,6 +51,25 @@ We collect this information through:
 
 * Direct input when you register or use app features  
 * Automatic collection through app usage and device sensors
+
+## **Our Website**
+
+**Demo and Contact Requests:**
+
+When you submit a demo request through our Website, we collect the information you provide in the form:
+
+* **Name, Email Address, and Company** \- Collected to respond to your inquiry  
+* **Phone Number and Message** \- Collected only if you choose to provide them
+
+We use this information solely to respond to your inquiry, schedule product demonstrations, and discuss your lockout/tagout needs. Your submission is delivered to us as email through a third-party email delivery provider. We do not add you to marketing lists without your consent, and we do not sell this information.
+
+**Technical Information:**
+
+Our website hosting provider may process standard server logs (such as IP address and browser type) to deliver and secure the Website. We use cookieless, first-party analytics to measure aggregate page views on the Website; this does not identify you individually. We do not set advertising or tracking cookies on the Website.
+
+**Retention:**
+
+We retain demo and contact request information for as long as needed to respond to your inquiry and for reasonable business recordkeeping. You may request deletion at any time at privacy@otterlocks.com.
 
 ## **How We Use Your Personal Data**
 
@@ -140,7 +159,7 @@ You have several rights regarding your personal data. Here's how to exercise the
 
 **What you can delete:**
 
-* Your account and personal personal information (name, email, phone number, profile picture)  
+* Your account and personal information (name, email, phone number, profile picture)  
 * Specific photos or videos you've uploaded
 
 **How to request deletion:**
